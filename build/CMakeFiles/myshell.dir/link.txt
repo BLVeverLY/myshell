@@ -1,0 +1,1 @@
+g++  -O0 -Wall -g2 -ggdb CMakeFiles/myshell.dir/src/main.cpp.o CMakeFiles/myshell.dir/src/mycmd.cpp.o CMakeFiles/myshell.dir/src/myerr.cpp.o CMakeFiles/myshell.dir/src/process.cpp.o -o ../bin/myshell 

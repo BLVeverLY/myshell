@@ -1,0 +1,5 @@
+pwd
+time
+time >> b.txt
+cd /usr
+pwd
